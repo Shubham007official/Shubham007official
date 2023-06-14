@@ -17,4 +17,4 @@
 
 🌍 When I'm not coding, you can find me exploring the great outdoors, reading a book, or enjoying quality time with my family and friends.
 
-📫 Feel free to connect with me on LinkedIn [[insert LinkedIn profile link]](https://www.linkedin.com/in/shubham-waghmare-1436b7234/) or check out my portfolio [insert portfolio link]. Let's connect, collaborate, and build amazing things together!
+📫 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/shubham-waghmare-1436b7234/) or check out my portfolio [insert portfolio link]. Let's connect, collaborate, and build amazing things together!
